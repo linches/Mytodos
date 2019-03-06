@@ -16,11 +16,12 @@ h1 {
 }
 
 input {
-  /*   */
-  padding: 30px;
+  text-align: center;
+  position: relative;
+  width: auto;
+  padding: 16px 16px 16px 60px;
   font-size: 30px;
   size: 50px;
-  text-align: center;
 }
 
 p {
